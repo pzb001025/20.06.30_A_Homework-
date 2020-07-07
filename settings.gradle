@@ -1,3 +1,4 @@
 rootProject.name='A'
 include ':app'
 include ':B'
+include ':C'
